@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://konakonall.github.io/sitemap.xml 
